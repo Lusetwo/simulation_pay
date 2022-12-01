@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "name": "config.jwt",
+      "type": "com.example.simulation_pay.config.JwtConfig",
+      "sourceType": "com.example.simulation_pay.config.JwtConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "config.jwt.expire",
+      "type": "java.lang.Long",
+      "sourceType": "com.example.simulation_pay.config.JwtConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "config.jwt.header",
+      "type": "java.lang.String",
+      "sourceType": "com.example.simulation_pay.config.JwtConfig"
+    },
+    {
+      "name": "config.jwt.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.example.simulation_pay.config.JwtConfig"
+    }
+  ],
+  "hints": []
+}

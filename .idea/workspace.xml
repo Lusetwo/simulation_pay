@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7216cae-c741-4388-9f03-aeda77b84e4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\application\Maven\repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.8.5" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ul5JIBMwb7czsEcK94bo8XsQWH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/IdeaProject/simulation_pay&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;1925460a7b913d9e7ca6491f0df4bc2a&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\simulation_pay\simulation_pay\src\main\java\com\example\simulation_pay\common\baseEntity" />
+      <recent name="F:\simulation_pay\simulation_pay\src\main\java\com\example\simulation_pay\common\result" />
+      <recent name="F:\simulation_pay\simulation_pay\src\main\java\com\example\simulation_pay\config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.simulation_pay.config" />
+      <recent name="com.example.simulation_pay.manageDuen.adminModule.mapper" />
+      <recent name="com.example.simulation_pay.manageDuen.adminModule.controller" />
+      <recent name="com.example.simulation_pay.teacherDuen.goodsModule.controller" />
+      <recent name="com.example.simulation_pay.common.baseEntity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SimulationPayApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.simulation_pay.config.CodeGenerator" />
+      <module name="simulation_pay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.simulation_pay.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.simulation_pay.common.test.TestA" />
+      <module name="simulation_pay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.simulation_pay.common.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulationPayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="simulation_pay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.simulation_pay.SimulationPayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.simulation_pay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CodeGenerator" />
+      <item itemvalue="Application.TestA" />
+      <item itemvalue="Spring Boot.SimulationPayApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SimulationPayApplication" />
+        <item itemvalue="Application.CodeGenerator" />
+        <item itemvalue="Application.TestA" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7216cae-c741-4388-9f03-aeda77b84e4a" name="Default Changelist" comment="" />
+      <created>1625227261831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625227261831</updated>
+      <workItem from="1625227263312" duration="23357000" />
+      <workItem from="1625281755413" duration="47208000" />
+      <workItem from="1625370719112" duration="5978000" />
+      <workItem from="1625422581499" duration="11341000" />
+      <workItem from="1625451529464" duration="31616000" />
+      <workItem from="1625538698968" duration="9217000" />
+      <workItem from="1625554671785" duration="17362000" />
+      <workItem from="1625577891738" duration="11585000" />
+      <workItem from="1625625272265" duration="5750000" />
+      <workItem from="1625635313196" duration="29034000" />
+      <workItem from="1625712674704" duration="217000" />
+      <workItem from="1625715694845" duration="12126000" />
+      <workItem from="1625757563958" duration="84000" />
+      <workItem from="1625810292338" duration="503000" />
+      <workItem from="1625832060049" duration="147000" />
+      <workItem from="1625837424680" duration="575000" />
+      <workItem from="1625885302470" duration="7678000" />
+      <workItem from="1625924556733" duration="607000" />
+      <workItem from="1625927234847" duration="765000" />
+      <workItem from="1626006084507" duration="84000" />
+      <workItem from="1626058933745" duration="9790000" />
+      <workItem from="1626081795481" duration="1204000" />
+      <workItem from="1626097541976" duration="839000" />
+      <workItem from="1626099310393" duration="800000" />
+      <workItem from="1626101341259" duration="3174000" />
+      <workItem from="1626149191605" duration="133000" />
+      <workItem from="1626154267891" duration="1063000" />
+      <workItem from="1626183860540" duration="686000" />
+      <workItem from="1626227987425" duration="163000" />
+      <workItem from="1626444916260" duration="744000" />
+      <workItem from="1626486925262" duration="3729000" />
+      <workItem from="1626681972730" duration="616000" />
+      <workItem from="1626761542450" duration="809000" />
+      <workItem from="1626836298586" duration="11572000" />
+      <workItem from="1626859887970" duration="21864000" />
+      <workItem from="1626891525285" duration="2000" />
+      <workItem from="1626921882114" duration="5213000" />
+      <workItem from="1626939726857" duration="10974000" />
+      <workItem from="1626959857169" duration="701000" />
+      <workItem from="1627031609088" duration="532000" />
+      <workItem from="1627627870021" duration="1052000" />
+      <workItem from="1627644496485" duration="5550000" />
+      <workItem from="1627677305708" duration="6242000" />
+      <workItem from="1628043661891" duration="2053000" />
+      <workItem from="1628071513756" duration="4166000" />
+      <workItem from="1628080670748" duration="7231000" />
+      <workItem from="1628139185449" duration="1675000" />
+      <workItem from="1628148748615" duration="8436000" />
+      <workItem from="1628218189504" duration="5567000" />
+      <workItem from="1628238641391" duration="1572000" />
+      <workItem from="1628244225389" duration="67000" />
+      <workItem from="1628244328181" duration="7901000" />
+      <workItem from="1628303863264" duration="16206000" />
+      <workItem from="1628475796971" duration="2112000" />
+      <workItem from="1629089084536" duration="12642000" />
+      <workItem from="1629169050066" duration="1197000" />
+      <workItem from="1629181106154" duration="4033000" />
+      <workItem from="1629194351210" duration="2800000" />
+      <workItem from="1629206127449" duration="2203000" />
+      <workItem from="1629252402349" duration="10604000" />
+      <workItem from="1629356880825" duration="9814000" />
+      <workItem from="1629433032188" duration="107000" />
+      <workItem from="1629434614481" duration="22000" />
+      <workItem from="1629600453731" duration="7975000" />
+      <workItem from="1629699815878" duration="3791000" />
+      <workItem from="1629788650295" duration="10454000" />
+      <workItem from="1629900867740" duration="1805000" />
+      <workItem from="1629942764537" duration="8728000" />
+      <workItem from="1630030830198" duration="9184000" />
+      <workItem from="1630062930490" duration="5288000" />
+      <workItem from="1630111742842" duration="12359000" />
+      <workItem from="1630217278768" duration="522000" />
+      <workItem from="1630232444500" duration="2244000" />
+      <workItem from="1630288918430" duration="1282000" />
+      <workItem from="1630292430288" duration="1933000" />
+      <workItem from="1630407665870" duration="3752000" />
+      <workItem from="1630419411127" duration="1745000" />
+      <workItem from="1630461272700" duration="2532000" />
+      <workItem from="1630668452538" duration="2499000" />
+      <workItem from="1630720557955" duration="7005000" />
+      <workItem from="1630842545101" duration="679000" />
+      <workItem from="1630935158902" duration="2053000" />
+      <workItem from="1630981373265" duration="4758000" />
+      <workItem from="1631062515596" duration="1480000" />
+      <workItem from="1631102918581" duration="723000" />
+      <workItem from="1631149059691" duration="4237000" />
+      <workItem from="1632468664756" duration="945000" />
+      <workItem from="1633766395822" duration="3055000" />
+      <workItem from="1633837067051" duration="39000" />
+      <workItem from="1669194598113" duration="3533000" />
+      <workItem from="1669256266585" duration="8331000" />
+      <workItem from="1669345047703" duration="4816000" />
+      <workItem from="1669352748373" duration="639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
